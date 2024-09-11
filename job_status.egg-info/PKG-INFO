@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: job-status
+Version: 0.1.0
+Summary: A package to monitor and store job statuses using SQLite and Rich
+Home-page: https://github.com/yourusername/job_status
+Author: Utpal Kumar
+Author-email: your-email@example.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6

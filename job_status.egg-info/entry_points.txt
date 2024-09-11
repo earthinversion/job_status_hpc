@@ -1,0 +1,2 @@
+[console_scripts]
+job-status = job_status.job_monitor:main
