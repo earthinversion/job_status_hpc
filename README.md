@@ -24,8 +24,8 @@ The **Job Status Monitor** is a Python package that monitors job statuses on SLU
 1. Clone the repository or download the package:
 
    ```bash
-   git clone https://github.com/yourusername/job-status-monitor
-   cd job-status-monitor
+   git clone https://github.com/earthinversion/job_status_hpc
+   cd job_status_hpc
    ```
 2. Install the package locally:
     ```bash
