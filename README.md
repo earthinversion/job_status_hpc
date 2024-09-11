@@ -1,6 +1,6 @@
 # Job Status Monitor
 
-The **Job Status Monitor** is a Python package that monitors job statuses on SLURM-based systems, displaying job details such as runtime, status, and log file sizes using the `Rich` library for console output. Additionally, it can store job details in an SQLite database and allows dynamic updates to configuration settings via command-line arguments.
+The **Job Status Monitor** is a Python package that monitors job statuses on SLURM-based systems, displaying job details such as runtime, status, and log file sizes using the `Rich` library for console output. Additionally, it can store job details in an SQLite database and allows dynamic updates to configuration settings via command-line arguments. This is helpful when one is running many jobs together and want to monitor the status of jobs including whether there are any errors or not.
 
 ## Features
 
